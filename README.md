@@ -1,8 +1,8 @@
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanuel-Naizghi&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amanuel-Naizghi&theme=tokyonight)
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,9 +11,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,github,vscode,react,nodejs,express,tailwind,prisma,postgres" />
 </p>
 
 
