@@ -1,4 +1,4 @@
-![Amanuel's GitHub stats](https://github-readme-stats-rho-umber.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight)
+![Amanuel's GitHub stats](https://github-readme-stats-rho-umber.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight&v=1)
 
 ![Top Langs](https://github-readme-stats-rho-umber.vercel.app/api/top-langs/?username=Amanuel-Naizghi&layout=compact&theme=tokyonight)
 
