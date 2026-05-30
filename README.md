@@ -1,6 +1,6 @@
-![Amanuel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight)
+![Amanuel's GitHub stats](https://github-readme-stats-rho-umber.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amanuel-Naizghi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-rho-umber.vercel.app/api/top-langs/?username=Amanuel-Naizghi&layout=compact&theme=tokyonight)
 
 
 ### Languages & Tools
