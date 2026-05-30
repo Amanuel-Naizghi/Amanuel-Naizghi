@@ -1,8 +1,7 @@
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight)
+![Amanuel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amanuel-Naizghi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanuel-Naizghi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amanuel-Naizghi&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amanuel-Naizghi&theme=tokyonight)
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
